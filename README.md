@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dipen Patell</h1>
 <h3 align="center">I am a front-end developer currently, on the path th be a full stack developer.</h3>
-<img align="right" alt="webdev" width="300" src="https://cdn.dribbble.com/users/14374/screenshots/3153764/junior.gif">
+<img align="right" alt="webdev" width="250" src="https://cdn.dribbble.com/users/14374/screenshots/3153764/junior.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipenpatel1901&label=Profile%20views&color=0e75b6&style=flat" alt="dipenpatel1901" /> </p>
 
