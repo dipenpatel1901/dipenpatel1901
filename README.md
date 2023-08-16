@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **dipenpatel048@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1XjRpFrEqyntS27ugGxcM0SQYGTravvvq](https://drive.google.com/drive/folders/1XjRpFrEqyntS27ugGxcM0SQYGTravvvq)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/dipenpatel1901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dipenpatel1901" height="30" width="40" /></a>
